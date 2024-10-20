@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pastiterbang.github.io/konten/sitemap.xml
